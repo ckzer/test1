@@ -1,8 +1,8 @@
-package com.example.test1
+package com.example.umc_week4
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.test1.databinding.ActivitySecondBinding
+import com.example.umc_week4.databinding.ActivitySecondBinding
 
 class SecondActivity : AppCompatActivity(){
 

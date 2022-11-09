@@ -15,9 +15,9 @@
 
     <Button
         android:id="@+id/btn_main"
-        android:textColor="@color/black"
-        android:text="다음 엑티비티에 값 전달"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="메모장 작성"
+        android:textColor="@color/black"
         app:backgroundTint="@color/white"></Button>
 </LinearLayout>
